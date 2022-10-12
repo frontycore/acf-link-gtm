@@ -23,16 +23,6 @@ class fronty_acf_field_link_gtm extends acf_field_link {
 
 		// category (string) basic | content | choice | relational | jquery | layout | CUSTOM GROUP NAME
 		$this->category = 'relational';
-
-		// defaults (array) Array of default settings which are merged into the field object. These are used later in settings
-		$this->defaults = array(
-			'font_size'	=> 14,
-		);
-
-		// l10n (array) Array of strings that are used in JavaScript. This allows JS strings to be translated in PHP and loaded via: var message = acf._e('link_gtm', 'error');
-		$this->l10n = array(
-			'error'	=> __('Error! Please enter a higher value', 'link_gtm'),
-		);
 	}
 
 	/**
