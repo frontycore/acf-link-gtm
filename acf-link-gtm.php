@@ -1,10 +1,10 @@
 <?php
 
 /*
-Plugin Name: Advanced Custom Fields: Link GTM
-Plugin URI: http://seliga.cz
-Description: Link field with additional GTM event input in dialog.
-Version: 1.0.0
+Plugin Name: ACF Link field with GTM event
+Plugin URI: 
+Description: Link field with additional GTM event input in dialog for Advanced Custom Fields plugin.
+Version: 0.1
 Author: Ondřej Šeliga
 Author URI: http://seliga.cz
 License: GPLv2 or later
