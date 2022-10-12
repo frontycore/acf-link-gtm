@@ -1,0 +1,7 @@
+/** Space for GTM event field in link dialog */
+#wp-link-wrap.gtmLinkWrap.has-text-field #wp-link .query-results {
+	top: 240px !important;
+}
+#wp-link-wrap.gtmLinkWrap {
+	min-height: 540px;
+}
